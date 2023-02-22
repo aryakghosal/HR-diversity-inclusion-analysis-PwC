@@ -36,9 +36,9 @@ Other KPIs included the percentage of turnover, the average performance rating o
 Overall, this HR Diversity and Inclusion Analysis project served as a valuable tool for HR managers to evaluate and measure the organization's progress towards creating a more diverse and inclusive workplace culture. Through this project, I was able to provide actionable insights and data-driven decisions to ensure the organization's continuous growth towards diversity and inclusion goals.
 <br>
 <br>
-<div style="text-align:center;">
-  <img src="Images/HR-diversity-and-inclusion-image1.png" alt="Image1" width="612" height="415" />
-</div>
+<p align="center">
+  <img src="Images/HR-diversity-and-inclusion-image1.png" alt="Image1" width="512" height="316" />
+</p>
 
 ## Key Performance Indicators (KPIs)
 
