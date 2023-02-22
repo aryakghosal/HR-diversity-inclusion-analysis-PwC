@@ -3,7 +3,7 @@
 
 
 
-![Banner]()
+![Banner](Images/HR-diversity-and-inclusion-Banner.png)
 
 ## Contents
 
@@ -35,7 +35,7 @@ Other KPIs included the percentage of turnover, the average performance rating o
 
 Overall, this HR Diversity and Inclusion Analysis project served as a valuable tool for HR managers to evaluate and measure the organization's progress towards creating a more diverse and inclusive workplace culture. Through this project, I was able to provide actionable insights and data-driven decisions to ensure the organization's continuous growth towards diversity and inclusion goals.
 
-![]() image
+![Image1](Images/HR-diversity-and-inclusion-image1.png)
 
 ## Key Performance Indicators (KPIs)
 
@@ -123,7 +123,7 @@ The dataset was provided as an excel file by PwC from the Human Resources depart
 - DAX
 - Microsoft Power BI
 
-![]() image
+![Image1](Images/HR-diversity-and-inclusion-image2.jpeg)
 
 ## Observations & Insights
 
@@ -139,17 +139,17 @@ The dataset was provided as an excel file by PwC from the Human Resources depart
 
 ## Dashboard
 
-![]()
+![Diversity](Images/1-Diversity.jpg)
 
-![]()
+![Hiring](Images/2-Hiring.jpg)
 
-![]()
+![Performance](Images/3-Performance.jpg)
 
-![]()
+![Slicer1](Images/4-Slicer1.jpg)
 
-![]()
+![Slicer2](Images/5-Slicer2.jpg)
 
-![]()
+![Slicer3](Images/6-Slicer3.jpg)
 
 [Link to the Dashboard]()
 
