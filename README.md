@@ -104,7 +104,7 @@ A high percentage turnover rate can indicate that there are issues within the or
 ## Data Collection
 
 The dataset was provided as an excel file by PwC from the Human Resources department of a telecom client during PwC Power BI in Data Analytics Virtual Case Experience, which contained records of 500 employee consisting major fields like Employee ID, Gender, Age Group, Job Level after FY20 Promotions, New Hire FY20, FY20 Performance Rating, FY20 Leaver, Last Department in FY20, Time in Job Level, Promotion in FY20, Last Hire Date, etc. \
-**Link:** [Dataset]()
+**Link:** [Dataset](03-Diversity-Inclusion-Dataset.xlsx)
 
 
 ## Skills
@@ -154,7 +154,7 @@ The dataset was provided as an excel file by PwC from the Human Resources depart
 
 ![Slicer3](Images/6-Slicer3.jpg)
 
-[Link to the Dashboard]()
+[Link to the Dashboard](HR-Diversity-&-Inclusion-PwC.pbix)
 
 In conclusion, this HR Diversity and Inclusion Analysis project is a critical component in measuring and tracking an organization's diversity and inclusion initiatives. The project provides valuable insights for HR managers to make data-driven decisions and take proactive steps towards creating a more diverse and inclusive workplace culture.
 
