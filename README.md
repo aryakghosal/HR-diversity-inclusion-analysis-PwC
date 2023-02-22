@@ -34,8 +34,11 @@ To begin the analysis, I calculated the diversity ratio, comparing the number of
 Other KPIs included the percentage of turnover, the average performance rating of male employees, and the average performance rating of female employees. Using these KPIs, I designed a dashboard report that provided a clear and concise overview of the organization's diversity and inclusion initiatives, including areas of strength and areas that require improvement.
 
 Overall, this HR Diversity and Inclusion Analysis project served as a valuable tool for HR managers to evaluate and measure the organization's progress towards creating a more diverse and inclusive workplace culture. Through this project, I was able to provide actionable insights and data-driven decisions to ensure the organization's continuous growth towards diversity and inclusion goals.
-
-![Image1](Images/HR-diversity-and-inclusion-image1.png)
+<br>
+<br>
+<div style="text-align:center;">
+  <img src="Images/HR-diversity-and-inclusion-image1.png" alt="Image1" width="612" height="415" />
+</div>
 
 ## Key Performance Indicators (KPIs)
 
