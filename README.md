@@ -1,7 +1,8 @@
-
 # HR Diversity & Inclusion Analysis
 
-
+![GitHub repo size](https://img.shields.io/github/repo-size/aryakghosal/HR-diversity-inclusion-analysis-PwC?logo=github)
+![GitHub last commit](https://img.shields.io/github/last-commit/aryakghosal/HR-diversity-inclusion-analysis-PwC)
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen?logo=github) 
 
 ![Banner](Images/HR-diversity-and-inclusion-Banner.png)
 
