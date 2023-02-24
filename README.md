@@ -47,7 +47,7 @@ KPIs are measurable values that organizations use to track and evaluate their pr
 
 ### Some of the KPIs that were calculated include:
 
-- **Diversity Percentage**: This KPI measures the percentage of employees in the organization who belong to a particular demographic group, such as gender, age, or nationality.
+- **Diversity Percentage for Females**: This KPI measures the percentage of female employees in the organization by calculating the number of female employees in the organization divided by the total number of employees and then multiplying the result by 100.
 > **Diversity Percentage for Females** = (Number of Female Employees / Total Number of Employees in the Organization) x 100%
 
  - **Number of Male Employees**: This KPI measures the total number of male employees in the organization.
