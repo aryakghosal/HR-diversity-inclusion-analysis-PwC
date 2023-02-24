@@ -127,6 +127,8 @@ The dataset was provided as an excel file by PwC from the Human Resources depart
 - DAX
 - Microsoft Power BI
 
+# 
+
 ![Image1](Images/HR-diversity-and-inclusion-image2.jpeg)
 
 ## Observations & Insights
@@ -156,6 +158,8 @@ The dataset was provided as an excel file by PwC from the Human Resources depart
 ![Slicer3](Images/6-Slicer3.jpg)
 
 [Link to the Dashboard](HR-Diversity-&-Inclusion-PwC.pbix)
+
+# 
 
 In conclusion, this HR Diversity and Inclusion Analysis project is a critical component in measuring and tracking an organization's diversity and inclusion initiatives. The project provides valuable insights for HR managers to make data-driven decisions and take proactive steps towards creating a more diverse and inclusive workplace culture.
 
