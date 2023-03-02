@@ -18,8 +18,9 @@
 - [Data Collection](#data-collection)
 - [Skills](#skills)
 - [Tech Stack](#tech-stack)
-- [Observations \& Insights](#observations--insights)
+- [Insights \& Recommendations](#insights--recommendations)
 - [Dashboard](#dashboard)
+- [Conclusion](#conclusion)
 
 ## Description
 
@@ -131,7 +132,7 @@ The dataset was provided as an excel file by PwC from the Human Resources depart
 
 ![Image1](Images/HR-diversity-and-inclusion-image2.jpeg)
 
-## Observations & Insights
+## Insights & Recommendations
 
 1. There is a lack of diversity in the senior management where all senior and executive management are predominantly male, indicating there may be bias in recruitment and gender inequality in promotion.
 
@@ -159,8 +160,8 @@ The dataset was provided as an excel file by PwC from the Human Resources depart
 
 [Link to the Dashboard](HR-Diversity-&-Inclusion-PwC.pbix)
 
-# 
 
-In conclusion, this HR Diversity and Inclusion Analysis project is a critical component in measuring and tracking an organization's diversity and inclusion initiatives. The project provides valuable insights for HR managers to make data-driven decisions and take proactive steps towards creating a more diverse and inclusive workplace culture.
+## Conclusion
+This HR Diversity and Inclusion Analysis project is a critical component in measuring and tracking an organization's diversity and inclusion initiatives. The project provides valuable insights for HR managers, proposed recommendations to make data-driven decisions and take proactive steps towards creating a more diverse and inclusive workplace culture.
 
 ---
