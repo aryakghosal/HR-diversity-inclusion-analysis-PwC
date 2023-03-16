@@ -158,7 +158,7 @@ The dataset was provided as an excel file by PwC from the Human Resources depart
 
 ![Slicer3](Images/6-Slicer3.jpg)
 
-[Link to the Dashboard](HR-Diversity-&-Inclusion-PwC.pbix)
+[Link to the Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZmNmZWViNGItNjY4Ni00Nzg0LTkwYzctMDZiNGJmODQwYTYxIiwidCI6ImFhODMxNTE3LTU2ZTQtNGM4MS1iNTViLTYxZTk1MjQwMGE1MCJ9)
 
 
 ## Conclusion
