@@ -39,7 +39,7 @@ Overall, this HR Diversity and Inclusion Analysis project served as a valuable t
 <br>
 <br>
 <p align="center">
-  <img src="Images/HR-diversity-and-inclusion-image1.png" alt="Image1" style="max-width: 100%; height: auto;" />
+  <img src="Images/HR-diversity-and-inclusion-image1.png" alt="Image1" style="width: 566px; height: 377px; max-width: 100%; height: auto;" />
 </p>
 
 
