@@ -39,8 +39,9 @@ Overall, this HR Diversity and Inclusion Analysis project served as a valuable t
 <br>
 <br>
 <p align="center">
-  <img src="Images/HR-diversity-and-inclusion-image1.png" alt="Image1" width="512" height="316" />
+  <img src="Images/HR-diversity-and-inclusion-image1.png" alt="Image1" style="max-width: 100%; height: auto;" />
 </p>
+
 
 ## Key Performance Indicators (KPIs)
 
@@ -86,14 +87,14 @@ Here,
 This formula calculates the percentage of female employees in the total workforce of the organization. By comparing the diversity percentages for female employees, organizations can gain insights into the representation of female employees in their workforce and identify areas where diversity and inclusion efforts may need to be focused.
 
 ### **What does Turnover mean?**
-*Turnover*, in the context of business, refers to the rate at which employees leave an organisation and are replaced by new employees. Turnover is often measured over a specific period of time, such as a year, and can be expressed as a percentage or a ratio.
+*Turnover*, in the context of business, refers to the rate at which employees leave an organization and are replaced by new employees. Turnover is often measured over a specific period of time, such as a year, and can be expressed as a percentage or a ratio.
 
 There are different types of turnover, such as:
-- ***Voluntary Turnover*** - When an employee chooses to leave the organisation.
+- ***Voluntary Turnover*** - When an employee chooses to leave the organization.
 - ***Involuntary Turnover*** - When an employee is terminated or laid off.
 - ***Functional Turnover*** - When an employee leaves but is replaced by someone who is a better fit for the job.
 
-High turnover can be a concern for organisations, as it can lead to increased costs associated with recruitment, training, and lost productivity. Low turnover can be a positive sign for an organisation, as it may indicate that employees are satisfied with their jobs and are likely to stay with the organisation for a longer period of time.
+High turnover can be a concern for organizations, as it can lead to increased costs associated with recruitment, training, and lost productivity. Low turnover can be a positive sign for an organization, as it may indicate that employees are satisfied with their jobs and are likely to stay with the organization for a longer period of time.
 
 ### **What is Percentage Turnover?** 
 Percentage turnover of employees, specifically refers to the percentage of employees who have left an organization during a given period of time, relative to the total number of employees who were employed by the organization at the beginning of that period. This measure is expressed as a percentage, and it provides a more focused view of the turnover of a specific group of employees. \
@@ -138,9 +139,9 @@ The dataset was provided as an excel file by PwC from the Human Resources depart
 
 2. Most women employees are in junior positions so, the organizations can conduct a review of recruitment and hiring practices and provide access to training and development opportunities to help women develop the skills necessary to advance into higher-level positions. This could include mentorship and sponsorship programs, leadership development programs, and cross-functional training.
 
-3. The turnover percentage of the organization being 87%, the organizations can improve employee engagement by providing opportunities for career growth, creating a positive work environment, and providing recognition and rewards for good performance. The oragnization can also provide competitive compensation and benefits packages to attract and retain top talent. This could include salary increases, bonuses, and benefits such as healthcare, retirement plans, and paid time off. The organizations should also conduct exit interviews to understand why employees are leaving. This can help identify any common issues or concerns that may be contributing to the high turnover percentage.
+3. The turnover percentage of the organization being 87%, the organizations can improve employee engagement by providing opportunities for career growth, creating a positive work environment, and providing recognition and rewards for good performance. The organization can also provide competitive compensation and benefits packages to attract and retain top talent. This could include salary increases, bonuses, and benefits such as healthcare, retirement plans, and paid time off. The organizations should also conduct exit interviews to understand why employees are leaving. This can help identify any common issues or concerns that may be contributing to the high turnover percentage.
 
-4. Majority of the leavers for FY20 are from Operations and Sales & Sarketing departments, so the fact that a large number of employees are leaving these specific departments could suggest that there are issues within these areas of the business. There may be problems with management, working conditions, or employee satisfaction that are causing people to leave. It may be worth investigating the reasons for the high turnover to identify and address any underlying issues.
+4. Majority of the leavers for FY20 are from Operations and Sales & Marketing departments, so the fact that a large number of employees are leaving these specific departments could suggest that there are issues within these areas of the business. There may be problems with management, working conditions, or employee satisfaction that are causing people to leave. It may be worth investigating the reasons for the high turnover to identify and address any underlying issues.
 
 5. The fact that the average performance ratings for FY20 for female and male employees are very similar (2.42 for females and 2.41 for males) suggests that there may be gender equality in terms of performance within the company. This is a positive sign, as it suggests that the company is evaluating employees based on their actual performance, rather than any bias or stereotypes based on gender. However, there may be room for improvement in terms of employee performance, and it is important to be vigilant for potential biases that could impact the evaluation process.
 
